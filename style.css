@@ -1,0 +1,12 @@
+.body{
+width: 500px;
+background:"blue";
+}
+.icon{
+width:10%;
+height:10%;
+}
+.temp,.weather{
+font-size: 20px;
+font-weight:bold;
+}
